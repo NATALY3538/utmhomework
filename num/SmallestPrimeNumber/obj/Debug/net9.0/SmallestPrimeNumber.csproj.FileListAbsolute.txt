@@ -1,0 +1,14 @@
+D:\proyect\num\SmallestPrimeNumber\bin\Debug\net9.0\SmallestPrimeNumber.exe
+D:\proyect\num\SmallestPrimeNumber\bin\Debug\net9.0\SmallestPrimeNumber.deps.json
+D:\proyect\num\SmallestPrimeNumber\bin\Debug\net9.0\SmallestPrimeNumber.runtimeconfig.json
+D:\proyect\num\SmallestPrimeNumber\bin\Debug\net9.0\SmallestPrimeNumber.dll
+D:\proyect\num\SmallestPrimeNumber\bin\Debug\net9.0\SmallestPrimeNumber.pdb
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.AssemblyInfoInputs.cache
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.AssemblyInfo.cs
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.csproj.CoreCompileInputs.cache
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.dll
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\refint\SmallestPrimeNumber.dll
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.pdb
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\SmallestPrimeNumber.genruntimeconfig.cache
+D:\proyect\num\SmallestPrimeNumber\obj\Debug\net9.0\ref\SmallestPrimeNumber.dll
