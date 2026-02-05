@@ -1,0 +1,14 @@
+D:\src\core\entities\bin\Debug\net8.0\entities.exe
+D:\src\core\entities\bin\Debug\net8.0\entities.deps.json
+D:\src\core\entities\bin\Debug\net8.0\entities.runtimeconfig.json
+D:\src\core\entities\bin\Debug\net8.0\entities.dll
+D:\src\core\entities\bin\Debug\net8.0\entities.pdb
+D:\src\core\entities\obj\Debug\net8.0\entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\core\entities\obj\Debug\net8.0\entities.AssemblyInfoInputs.cache
+D:\src\core\entities\obj\Debug\net8.0\entities.AssemblyInfo.cs
+D:\src\core\entities\obj\Debug\net8.0\entities.csproj.CoreCompileInputs.cache
+D:\src\core\entities\obj\Debug\net8.0\entities.dll
+D:\src\core\entities\obj\Debug\net8.0\refint\entities.dll
+D:\src\core\entities\obj\Debug\net8.0\entities.pdb
+D:\src\core\entities\obj\Debug\net8.0\entities.genruntimeconfig.cache
+D:\src\core\entities\obj\Debug\net8.0\ref\entities.dll
