@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Package Manager
+packages/
+
+# Project files to ignore in parent directories.
+# These patterns assume the .gitignore is in D:\proyect\proyecto
+# If the user is in a subdirectory, paths starting with ../ might be needed.
+# However, for a root .gitignore, just the directory names are sufficient.
+
+# Ignore files that are outside the current 'proyecto' directory, but were listed in git status.
+# If these are part of a different project/repository, they should have their own .gitignore.
+# For now, I'll assume they are temporary or related to the current context and should be ignored.
+# This assumes that 'proyecto.sln' is the solution file for the current project.
+# The 'SmallestPrimeNumber' project seems to be outside the current folder structure,
+# I will only ignore files within the current 'proyecto' solution structure.
+
+# Let's refine this to ignore only the build outputs within the current project structure.
+# The 'modified' files like application/bin/Debug/net8.0/application.dll etc. will be ignored
+# by the `bin/` and `obj/` rules.
+
+# Ignoring the untracked parent directories `../say_hello/` and `../src/` might be too aggressive
+# if they are actual source code directories that the user wants to commit.
+# For now, I will only ignore the standard build output directories.
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotNet tools
+.config/

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "num", "num", "{5DBAB217-9EE1-E141-00A0-A23861039D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestPrimeNumber", "num\SmallestPrimeNumber\SmallestPrimeNumber.csproj", "{3687C2FC-0948-E099-0A1D-6BF96AED4AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3687C2FC-0948-E099-0A1D-6BF96AED4AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3687C2FC-0948-E099-0A1D-6BF96AED4AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3687C2FC-0948-E099-0A1D-6BF96AED4AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3687C2FC-0948-E099-0A1D-6BF96AED4AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3687C2FC-0948-E099-0A1D-6BF96AED4AD5} = {5DBAB217-9EE1-E141-00A0-A23861039D38}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9949AD-4623-4B1C-BC35-710E0ED90BFA}
+	EndGlobalSection
+EndGlobal
